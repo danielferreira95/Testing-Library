@@ -46,8 +46,8 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   <summary><strong>🗓 Data de entrega</strong></summary><br />
   
   * Este projeto é individual;
-  * São `X` dias de projeto;
-  * Data para entrega final do projeto: `DD/MM/YYYY - 14:00h`.
+  * Serão `2` dias de projeto;
+  * Data para entrega final do projeto: `21/02/2024 23:59`.
 
 </details>
 
@@ -134,7 +134,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **seu usuário**.
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-038`.
 
   Caso tenha alguma dúvida, [assista a este video explicativo](https://vimeo.com/362189205).
 
@@ -233,7 +233,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. 
 **Leva menos de 3 minutos!**
 
-[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH38&template=betrybe/sd-0x-project-react-testing-library-ts)
 
 </details>
 
