@@ -23,4 +23,3 @@ describe('Testa o componente FavoritePokemon', () => {
     expect(screen.getByText(/pikachu/i)).toBeInTheDocument();
   });
 });
-
